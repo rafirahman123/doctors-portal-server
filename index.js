@@ -9,6 +9,7 @@ const { MongoClient } = require('mongodb');
 const port = process.env.PORT || 5000;
 
 
+// JWT Token part
 // const serviceAccount = require('./doctors-portal-firebase-adminsdk.json');
 
 // admin.initializeApp({
